@@ -1,0 +1,14 @@
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Domain.deps.json
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Domain.pdb
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Domain.Core.dll
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Infra.CrossCutting.Bus.dll
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Domain.Core.pdb
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\bin\Debug\netcoreapp3.1\CozHep.Infra.CrossCutting.Bus.pdb
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.csprojAssemblyReference.cache
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.AssemblyInfoInputs.cache
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.AssemblyInfo.cs
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.csproj.CoreCompileInputs.cache
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.csproj.CopyComplete
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.dll
+C:\Users\coskun.ozdemir\source\repos\hep\src\CozHep.Domain\obj\Debug\netcoreapp3.1\CozHep.Domain.pdb
